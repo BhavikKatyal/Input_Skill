@@ -1,0 +1,8 @@
+{
+  "utterance": "My name is Bhavik",
+  "intent_type": "handle_intent",
+  "intent": {
+    "Wikipedia": "My name is",
+    "ArticleTitle": "Bhavik"
+  }
+}
